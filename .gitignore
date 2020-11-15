@@ -1,0 +1,11 @@
+
+src/Api/obj/Api.csproj.nuget.dgspec.json
+src/Api/obj/Api.csproj.nuget.g.props
+src/Api/obj/Api.csproj.nuget.g.targets
+src/Api/obj/project.assets.json
+src/Api/obj/project.nuget.cache
+src/Client/obj/Client.csproj.nuget.dgspec.json
+src/Client/obj/Client.csproj.nuget.g.props
+src/Client/obj/Client.csproj.nuget.g.targets
+src/Client/obj/project.assets.json
+src/Client/obj/project.nuget.cache
