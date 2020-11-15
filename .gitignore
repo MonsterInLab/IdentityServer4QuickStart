@@ -9,3 +9,6 @@ src/Client/obj/Client.csproj.nuget.g.props
 src/Client/obj/Client.csproj.nuget.g.targets
 src/Client/obj/project.assets.json
 src/Client/obj/project.nuget.cache
+/src/IdentityServer/obj
+/src/Client/obj/Debug/netcoreapp3.1
+/src/Api/obj/Debug/netcoreapp3.1
