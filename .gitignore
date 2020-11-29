@@ -12,3 +12,9 @@ src/Client/obj/project.nuget.cache
 /src/IdentityServer/obj
 /src/Client/obj/Debug/netcoreapp3.1
 /src/Api/obj/Debug/netcoreapp3.1
+/src/.vs/Quickstart
+/src/Api/bin/Debug/netcoreapp3.1
+/src/Client/bin/Debug/netcoreapp3.1
+/src/IdentityServer/bin/Debug/netcoreapp3.1
+/src/MvcClient/bin/Debug/netcoreapp3.1
+/src/MvcClient/obj
